@@ -1,0 +1,124 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "address": "2699 Green Valley",
+      "date": "2022-08-25",
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7",
+      "location": "Highland Lake, FL",
+      "name": "Palm Harbor",
+      "picture": "",
+      "property_type": "House",
+      "rent_price": 2095,
+      "favourite": true
+    },
+    {
+      "id": 2,
+      "address": "909 Woodland",
+      "date": "2022-08-24",
+      "beds": 5,
+      "bathrooms": 4,
+      "size": "9x7",
+      "location": "India",
+      "name": "Faulkner Ave",
+      "picture": "",
+      "property_type": "House",
+      "rent_price": 1095,
+      "favourite": false
+    },
+    {
+      "id": 3,
+      "address": "2821 Lake Sevilla",
+      "date": "2022-08-26",
+      "beds": 4,
+      "bathrooms": 2,
+      "size": "5x8",
+      "location": "Palm Harbor, TX",
+      "name": "Beverly Springfield",
+      "picture": "",
+      "property_type": "Vila",
+      "rent_price": 2700,
+      "favourite": true
+    },
+    {
+      "id": 4,
+      "address": "2699 Green Valley",
+      "date": "2022-07-25",
+      "beds": 2,
+      "bathrooms": 1,
+      "size": "5x7",
+      "location": "Highland Lake, FL",
+      "name": "Palm",
+      "picture": "",
+      "property_type": "House",
+      "rent_price": 400,
+      "favourite": false
+    },
+    {
+      "id": 5,
+      "address": "2699 Valley",
+      "date": "2022-08-15",
+      "beds": 3,
+      "bathrooms": 2,
+      "size": "5x7",
+      "location": "Highland Lake, FL",
+      "name": "Palm Harbor2",
+      "picture": "",
+      "property_type": "House",
+      "rent_price": 600,
+      "favourite": false
+    },
+    {
+      "id": 6,
+      "address": "2699 Greens",
+      "date": "2022-07-15",
+      "beds": 6,
+      "bathrooms": 4,
+      "size": "5x7",
+      "location": "Highland Lake, FL",
+      "name": "Greens Villa",
+      "picture": "",
+      "property_type": "Villa",
+      "rent_price": 2900,
+      "favourite": true
+    }
+  ],
+  "prices": [
+    {
+      "id": 1,
+      "price": "$100-$500",
+      "value": "100-500"
+    },
+    {
+      "id": 2,
+      "price": "$500-$1,000",
+      "value": "500-1000"
+    },
+    {
+      "id": 3,
+      "price": "$1,000-$1,500",
+      "value": "1000-1500"
+    },
+    {
+      "id": 4,
+      "price": "$1,500-$2,00",
+      "value": "1500-2000"
+    },
+    {
+      "id": 5,
+      "price": "$2,000-$2,500",
+      "value": "2000-2500"
+    },
+    {
+      "id": 6,
+      "price": "$2,500-$3,000",
+      "value": "2500-3000"
+    }
+  ],
+  "property-types": [
+    "House",
+    "Villa"
+  ]
+}
