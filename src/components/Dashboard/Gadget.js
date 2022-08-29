@@ -79,7 +79,7 @@ function Gadget(props) {
   const [lineData, setLineData] = useState({});
 
   const getLineData = () => {
-    axios.get("http://127.0.0.1:5000/").then((res) => {
+    axios.get("https://graphdata-api.herokuapp.com/graphs").then((res) => {
       let labels = res.data.map((e) => e[0]?.markdate);
       setLineData({
         labels,
