@@ -36,3 +36,90 @@
     transform: rotate(360deg);
   }
 }
+.gadget-box {
+  border: 2px solid #8b8b8b;
+  height: 500px;
+}
+.gadget-imag p {
+  font-size: 14px;
+  margin-top: 8px;
+  font-weight: 500;
+  color: #8b8b8b;
+}
+.gadget-imag span {
+  color: #2361d7;
+}
+.gadget-imag img {
+  width: 100%;
+  max-width: 22%;
+}
+.gadget-image {
+  width: 60%;
+}
+.main-boxwap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 24px;
+}
+.gadget-text {
+  width: 40%;
+}
+.gadget-image img {
+    width: 100%;
+    max-width: 51%;
+    display: block;
+    margin: 0 auto;
+}
+.gadget-image img {
+  width: 100%;
+  max-width: 46%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
+.add-gadget h6 {
+  text-align: center;
+}
+.add-gadget h6 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  padding-left: 20px;
+}
+button.btn.btn-primary {
+  padding: 3px 39px 5px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 5px;
+}
+.gadget-text p {
+  font-size: 16px;
+  font-weight: 500;
+}
+.dashboard {
+  padding: 50px 0;
+}
+.gadget-imag {
+  padding: 180px 0;
+}
+.chart-icons {
+  text-align: end;
+  padding: 6px 2px 0px 0px;
+}
+.chart-icons :hover {
+  cursor: pointer;
+}
+.chart-icons svg {
+  margin-right: 10px;
+}
+.modal-content .modal-header {
+  position: absolute;
+  right: 0;
+  border: 0;
+  z-index: 99;
+}
+.modal-content .modal-header :hover{
+  cursor: pointer;
+}
